@@ -8,6 +8,12 @@
   <img src="Images/Screenshot%202026-09-13%20185550.png" width="80%" alt="Handheld Radar PCB">
 </p>
 
+## Schematic
+
+<p align="center">
+  <img src="Images/Job1%20(10)-1.png" width="100%" alt="Handheld Radar Schematic">
+</p>
+
 ## Overview
 
 Handheld 2.4 GHz radar system capable of measuring distance, velocity, and Synthetic Aperture Radar (SAR) imaging.
